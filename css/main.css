@@ -1,0 +1,33 @@
+body {
+  color: #666;
+  font-family: Verdana, sans-serif;
+  font-size: 16px;
+  line-height: 2;
+}
+
+.subtitle {
+  color: #f07c17;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+
+.mainfeature {
+  border: 1px solid #ccc;
+  width: 100%;
+  margin-top: 30px;
+  padding: 10px 30px 30px;
+}
+
+.mug {
+  width: 100%;
+  margin-top: 20px;
+}
+
+h1 {
+  font-size: 48px;
+  padding-top: 26px;
+}
+
+h2 {
+  font-size: 24px;
+}
